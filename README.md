@@ -1,20 +1,67 @@
-# My Portfolio
+# 💫 About Me
 
-# 💫 About Me:
-# 👋 Hi, I'm Ananya Dandemraju<br><br>## 💡 About Me<br>- 🎓 Undergraduate student at the **University of Virginia** pursuing a **B.S. in Computer Science** and **B.S. in Statistics** (Class of 2028)  <br>- 🔬 Experienced in **data analytics, machine learning, and systems programming** through internships and lab research  <br>- 🐍 Strong background in **Python**, with additional experience in **C, Java, SQL**, and planned learning in **JavaScript & AWS**  <br>- ⚙️ Interested in **data-driven systems, cloud computing, and applied machine learning**  <br>- 🚀 Passionate about building projects that connect **theory, engineering, and real-world impact**  <br><br>## 🛠️ Skills<br>- **Languages:** Python (Proficient), C, Java, SQL, Arduino C  <br>- **Planned Learning:** JavaScript, AWS Certifications (SAA, Professional, ML Specialty)  <br>- **Tools & Frameworks:** Git, Power BI, AutoCAD, Slicer, PASCO Capstone  <br>- **Core Skills:** Data Visualization, CAD Modeling, ML basics, Prototyping  <br><br>## 🔬 Experience<br>- **Computer Science Intern @ Smart Analytics Inc (2024 – Present):**  <br>  Designed data strategies with **Python, SQL, Power BI** improving enterprise reporting efficiency by 30%.  <br>- **Segmenter @ M3 Lab (2025):**  <br>  Segmented MRI musculoskeletal data using **Slicer**, building 3D reconstructions for biomechanical modeling.  <br><br>## 📂 Projects<br>- **Pickleball Lifespan Sensor (2025):** Team Lead — Developed Arduino + ultrasonic sensor prototype to predict paddle wear with ±5% accuracy.  <br>- **METY Technology (2022 – Present):** Cofounder — Built an ML-powered wellness app published in an international journal, supporting 100+ users.  <br><br>## 📫 Connect With Me<br>- ✉️ Email: [wky3ny@virginia.edu](mailto:wky3ny@virginia.edu)  <br>- 💼 LinkedIn: *https://www.linkedin.com/in/ananyadandemraju/*  <br>
+# 👋 Hi, I'm Ananya Dandemraju
 
+## 💡 About Me
+- 🎓 Undergraduate at the **University of Virginia** pursuing **B.S. Computer Science** & **B.S. Statistics** (Class of 2028)
+- 🐍 Strong in **Python**; building depth in **Java, C, SQL**, and soon **JavaScript & AWS**
+- 🔬 Experience across **data analytics, ML basics, and systems programming**
+- 🚀 I like shipping projects that connect **theory → engineering → impact**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adandemraju&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adandemraju&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adandemraju&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Skills Snapshot
+- **Languages:** Python, Java, C, SQL, (learning) JavaScript
+- **Cloud/Tools:** AWS (learning), Git/GitHub, Power BI, AutoCAD, Slicer
+- **Interests:** ML, systems, full-stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adandemraju&theme=city_lights&no-frame=true&no-bg=false&margin-w=4)
+## 🔬 Experience
+- **Computer Science Intern — Smart Analytics Inc (2024 – Present)**  
+  Improved reporting efficiency by ~30% with **Python, SQL, Power BI**.
+- **Segmenter — M3 Lab (2025)**  
+  Created 3D reconstructions from MRI data with **Slicer** for biomechanics research.
+
+## 📂 Featured Projects
+- **Pickleball Lifespan Sensor (2025)** — Arduino + ultrasonic sensors; ±5% wear prediction.
+- **METY Technology (2022 – Present)** — ML-powered wellness app (100+ users).
+
+## 📫 Connect
+- ✉️ **Email:** [wky3ny@virginia.edu](mailto:wky3ny@virginia.edu)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ananyadandemraju/
 
 ---
+
+# 💻 Tech Stack (Dark Mode)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+---
+
+# 📊 GitHub Stats (Dark Theme)
+
+![](https://github-readme-stats.vercel.app/api?username=adandemraju&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=adandemraju&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adandemraju&theme=tokyonight&hide_border=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adandemraju&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=adandemraju&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly styled for dark mode -->
