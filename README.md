@@ -29,7 +29,7 @@
 
 ---
 
-# 💻 Tech Stack (Dark Mode)
+# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-# 📊 GitHub Stats (Dark Theme)
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=adandemraju&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
