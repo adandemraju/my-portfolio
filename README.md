@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## 💡 About Me
+##
 - 🎓 Undergraduate at the **University of Virginia** pursuing **B.S. Computer Science** & **B.S. Statistics** (Class of 2028)
 - 🐍 Strong in **Python**; building depth in **Java, C, SQL**, and soon **JavaScript & AWS**
 - 🔬 Experience across **data analytics, ML basics, and systems programming**
