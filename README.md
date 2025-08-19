@@ -14,12 +14,12 @@
 ## 🔬 Experience
 - **Computer Science Intern — Smart Analytics Inc (2024 – Present)**  
   Improved reporting efficiency by ~30% with **Python, SQL, Power BI**.
+- **METY Technology (2022 – Present)** — ML-powered wellness app (100+ users).
 - **Segmenter — M3 Lab (2025)**  
   Created 3D reconstructions from MRI data with **Slicer** for biomechanics research.
 
 ## 📂 Featured Projects
 - **Pickleball Lifespan Sensor (2025)** — Arduino + ultrasonic sensors; ±5% wear prediction.
-- **METY Technology (2022 – Present)** — ML-powered wellness app (100+ users).
 
 ## 📫 Connect
 - ✉️ **Email:** [wky3ny@virginia.edu](mailto:wky3ny@virginia.edu)  
